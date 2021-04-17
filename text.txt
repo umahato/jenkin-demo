@@ -2,3 +2,4 @@ this is my text file
 #adding second line
 how are you?
 adding few more lines
+hi there

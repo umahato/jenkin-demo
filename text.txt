@@ -1,1 +1,3 @@
 this is my text file
+#adding second line
+how are you?
